@@ -50,6 +50,21 @@
 
 ---
 
+## 📚 What I Learned
+
+- Built a rule-based NLP system for resume analysis  
+- Implemented regex for pattern detection  
+- Designed dynamic scoring logic  
+- Converted CLI tool into a web app using Streamlit  
+- Deployed and managed a live application
+
+## 🚧 Future Improvements
+
+- Integrate LLM for intelligent resume feedback  
+- Add PDF/DOCX support  
+- Improve UI/UX design  
+- Add resume rewriting suggestions
+
 ## 🚀 Run Locally
 
 ```bash
